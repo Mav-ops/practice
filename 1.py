@@ -49,3 +49,5 @@ for i in range(3,len(li)):
    x.append(li[i-3:i])
 
 print(x)
+
+b分支改一改看看
