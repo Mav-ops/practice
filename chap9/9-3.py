@@ -1,0 +1,5 @@
+f=input('Enter filename: ')
+f1=open(f,'r')
+allline=f1.readlines()
+f1.close()
+print(len(allline))

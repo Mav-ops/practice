@@ -1,0 +1,59 @@
+% cat carddata.txt
+# carddata.txt
+previous balance
+25
+debits
+21.64
+541.24
+25
+credits
+-25
+-541.24
+finance charge/late fees
+7.30
+5
+account log:
+ignored:could not convert string to float: '% cat carddata.txt\n'
+ignored:could not convert string to float: '# carddata.txt\n'
+ignored:could not convert string to float: 'previous balance\n'
+data...processed
+ignored:could not convert string to float: 'debits\n'
+data...processed
+data...processed
+data...processed
+ignored:could not convert string to float: 'credits\n'
+data...processed
+data...processed
+ignored:could not convert string to float: 'finance charge/late fees\n'
+data...processed
+data...processed
+account log:
+ignored:could not convert string to float: '% cat carddata.txt\n'
+ignored:could not convert string to float: '# carddata.txt\n'
+ignored:could not convert string to float: 'previous balance\n'
+data...processed
+ignored:could not convert string to float: 'debits\n'
+data...processed
+data...processed
+data...processed
+ignored:could not convert string to float: 'credits\n'
+data...processed
+data...processed
+ignored:could not convert string to float: 'finance charge/late fees\n'
+data...processed
+data...processed
+ignored:could not convert string to float: 'account log:\n'
+ignored:could not convert string to float: "ignored:could not convert string to float: '% cat carddata.txt\\n'\n"
+ignored:could not convert string to float: "ignored:could not convert string to float: '# carddata.txt\\n'\n"
+ignored:could not convert string to float: "ignored:could not convert string to float: 'previous balance\\n'\n"
+ignored:could not convert string to float: 'data...processed\n'
+ignored:could not convert string to float: "ignored:could not convert string to float: 'debits\\n'\n"
+ignored:could not convert string to float: 'data...processed\n'
+ignored:could not convert string to float: 'data...processed\n'
+ignored:could not convert string to float: 'data...processed\n'
+ignored:could not convert string to float: "ignored:could not convert string to float: 'credits\\n'\n"
+ignored:could not convert string to float: 'data...processed\n'
+ignored:could not convert string to float: 'data...processed\n'
+ignored:could not convert string to float: "ignored:could not convert string to float: 'finance charge/late fees\\n'\n"
+ignored:could not convert string to float: 'data...processed\n'
+ignored:could not convert string to float: 'data...processed\n'
